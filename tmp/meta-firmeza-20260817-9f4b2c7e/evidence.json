@@ -1,0 +1,874 @@
+{
+  "generated_at": "2026-08-17 04:09 UTC",
+  "diagnostics": [
+    {
+      "country": "CO",
+      "query": "aceite corporal reafirmante",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=aceite+corporal+reafirmante&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 403,
+      "error": null,
+      "cards": 27,
+      "body_chars": 31241,
+      "blocked_terms": [],
+      "seconds": 38.2
+    },
+    {
+      "country": "CO",
+      "query": "crema reafirmante",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=crema+reafirmante&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 28,
+      "body_chars": 18095,
+      "blocked_terms": [],
+      "seconds": 38.8
+    },
+    {
+      "country": "CO",
+      "query": "flacidez",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=flacidez&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 29,
+      "body_chars": 21086,
+      "blocked_terms": [],
+      "seconds": 40.6
+    },
+    {
+      "country": "CO",
+      "query": "piel flácida",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=piel+fl%C3%A1cida&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 33,
+      "body_chars": 38267,
+      "blocked_terms": [],
+      "seconds": 40.5
+    },
+    {
+      "country": "CO",
+      "query": "firmeza corporal",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=firmeza+corporal&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 25,
+      "body_chars": 21554,
+      "blocked_terms": [],
+      "seconds": 37.5
+    },
+    {
+      "country": "CO",
+      "query": "aceite firmeza",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=aceite+firmeza&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 31,
+      "body_chars": 52586,
+      "blocked_terms": [],
+      "seconds": 41.1
+    },
+    {
+      "country": "CO",
+      "query": "brazos flacidez",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=brazos+flacidez&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 24,
+      "body_chars": 27369,
+      "blocked_terms": [],
+      "seconds": 41.6
+    },
+    {
+      "country": "CO",
+      "query": "papada",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&q=papada&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 32,
+      "body_chars": 19274,
+      "blocked_terms": [],
+      "seconds": 39.8
+    },
+    {
+      "country": "MX",
+      "query": "aceite corporal reafirmante",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=aceite+corporal+reafirmante&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 403,
+      "error": null,
+      "cards": 31,
+      "body_chars": 33611,
+      "blocked_terms": [],
+      "seconds": 38.4
+    },
+    {
+      "country": "MX",
+      "query": "crema reafirmante",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=crema+reafirmante&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 30,
+      "body_chars": 25763,
+      "blocked_terms": [],
+      "seconds": 38.7
+    },
+    {
+      "country": "MX",
+      "query": "flacidez",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=flacidez&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 30,
+      "body_chars": 28030,
+      "blocked_terms": [],
+      "seconds": 40.4
+    },
+    {
+      "country": "MX",
+      "query": "piel flácida",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=piel+fl%C3%A1cida&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 33,
+      "body_chars": 45930,
+      "blocked_terms": [],
+      "seconds": 40.9
+    },
+    {
+      "country": "MX",
+      "query": "firmeza corporal",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=firmeza+corporal&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 32,
+      "body_chars": 29448,
+      "blocked_terms": [],
+      "seconds": 40.5
+    },
+    {
+      "country": "MX",
+      "query": "aceite firmeza",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=aceite+firmeza&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 30,
+      "body_chars": 27207,
+      "blocked_terms": [],
+      "seconds": 39.0
+    },
+    {
+      "country": "MX",
+      "query": "brazos flacidez",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=brazos+flacidez&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 28,
+      "body_chars": 57713,
+      "blocked_terms": [],
+      "seconds": 41.0
+    },
+    {
+      "country": "MX",
+      "query": "papada",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&q=papada&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 31,
+      "body_chars": 20658,
+      "blocked_terms": [],
+      "seconds": 38.0
+    },
+    {
+      "country": "ES",
+      "query": "aceite corporal reafirmante",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=aceite+corporal+reafirmante&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 403,
+      "error": null,
+      "cards": 30,
+      "body_chars": 37470,
+      "blocked_terms": [],
+      "seconds": 35.6
+    },
+    {
+      "country": "ES",
+      "query": "crema reafirmante",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=crema+reafirmante&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 26,
+      "body_chars": 14285,
+      "blocked_terms": [],
+      "seconds": 38.0
+    },
+    {
+      "country": "ES",
+      "query": "flacidez",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=flacidez&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 33,
+      "body_chars": 19327,
+      "blocked_terms": [],
+      "seconds": 38.3
+    },
+    {
+      "country": "ES",
+      "query": "piel flácida",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=piel+fl%C3%A1cida&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 30,
+      "body_chars": 90784,
+      "blocked_terms": [],
+      "seconds": 40.2
+    },
+    {
+      "country": "ES",
+      "query": "firmeza corporal",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=firmeza+corporal&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 26,
+      "body_chars": 20331,
+      "blocked_terms": [],
+      "seconds": 38.2
+    },
+    {
+      "country": "ES",
+      "query": "aceite firmeza",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=aceite+firmeza&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 31,
+      "body_chars": 43870,
+      "blocked_terms": [],
+      "seconds": 39.1
+    },
+    {
+      "country": "ES",
+      "query": "brazos flacidez",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=brazos+flacidez&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 26,
+      "body_chars": 26587,
+      "blocked_terms": [],
+      "seconds": 36.7
+    },
+    {
+      "country": "ES",
+      "query": "papada",
+      "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&q=papada&search_type=keyword_unordered&media_type=all&locale=en_US",
+      "http_status": 200,
+      "error": null,
+      "cards": 27,
+      "body_chars": 17373,
+      "blocked_terms": [],
+      "seconds": 37.1
+    }
+  ],
+  "top": [
+    {
+      "ad_id": "265989783038698",
+      "advertiser": "adelgazar_naturalmente_fitplus",
+      "body": "🌸🔮𝗖𝗢𝗟𝗔́𝗚𝗘𝗡𝗢 𝗔-𝗖𝗜𝗡𝗧𝗨𝗥𝗔-𝗧 𝗥𝗘𝗗𝗨𝗖𝗧𝗜𝗩𝗢 - 𝗥𝗘𝗔𝗙𝗜𝗥𝗠𝗔𝗡𝗧𝗘 🍇🍊🧉 de Fitplus ⭐️",
+      "headline": "adelgazar_naturalmente_fitplus",
+      "destination": "",
+      "start": "2023-09-07T00:00:00+00:00",
+      "start_raw": "Sep 7, 2023",
+      "countries": [
+        "MX"
+      ],
+      "queries": [
+        "brazos flacidez"
+      ],
+      "media_type": "Imagen",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-MX/q07/creative_003_265989783038698.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=265989783038698",
+      "destination_final": "",
+      "destination_title": "",
+      "destination_type": "No recuperado",
+      "creative_description": "Imagen. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «00 Meta Mexico ¥ BD Allads ~ Q brazos flacidez ~550 results».",
+      "ocr": "00 Meta Mexico ¥ BD Allads ~ Q brazos flacidez ~550 results",
+      "promises": [
+        "Firmeza/tensión de la piel"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Brazos"
+      ],
+      "audience": [
+        "Después de bajar de peso"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 1075,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1264541854740598",
+      "advertiser": "Rcocio.com",
+      "body": "Revitaliza tu piel madura con nuestra Crema de Día - Hidratación y firmeza para una belleza radiante",
+      "headline": "Get offer",
+      "destination": "https://rcocio.com/products/crema-antiedad-pieles-maduras?_pos=1&_sid=78b5e554c&_ss=r",
+      "start": "2024-10-18T00:00:00+00:00",
+      "start_raw": "Oct 18, 2024",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "aceite firmeza",
+        "flacidez"
+      ],
+      "media_type": "Video",
+      "relevance": 11,
+      "screenshot": "work/all/meta-evidence-ES/q03/creative_005_1264541854740598.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1264541854740598",
+      "destination_final": "https://rcocio.com/products/crema-antiedad-pieles-maduras?_pos=1&_sid=78b5e554c&_ss=r",
+      "destination_title": "Crema antiedad pieles maduras – RcOcio",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «/ AdLibraryReport — AdLibraryAPI Branded Content = x».",
+      "ocr": "/ AdLibraryReport — AdLibraryAPI Branded Content = x",
+      "promises": [
+        "Firmeza/tensión de la piel",
+        "Hidratación/nutrición"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Mujeres 40+/piel madura"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 668,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "9312697242093963",
+      "advertiser": "Lico Cosmetics",
+      "body": "Descubre lo qué dice Samantha Vallejo Nágera sobre el producto que te va a ayudar a reafirmar y esculpir la papada😌",
+      "headline": "Descubre Más",
+      "destination": "https://licocosmetics.com/products/neck-slim-cream",
+      "start": "2024-11-22T00:00:00+00:00",
+      "start_raw": "Nov 22, 2024",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "papada"
+      ],
+      "media_type": "Video",
+      "relevance": 7,
+      "screenshot": "work/all/meta-evidence-ES/q08/creative_005_9312697242093963.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=9312697242093963",
+      "destination_final": "https://licocosmetics.com/products/neck-slim-cream",
+      "destination_title": "Neck Slim Cream - LICO Cosmetics",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «AdLibrary Report — AdLibrary API Branded Content — x».",
+      "ocr": "AdLibrary Report — AdLibrary API Branded Content — x",
+      "promises": [
+        "Firmeza/tensión de la piel",
+        "Papada/cuello"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Papada"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Beneficio o imperativo directo",
+      "days_active": 633,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "750787413995731",
+      "advertiser": "Cocosalvaje",
+      "body": "✨Hoy en día nos venden rutinas eternas, con pasos que ni entendemos y productos que suenan lindos… pero cuando lees los ingredientes, te das cuenta: ¿esto de verdad le hace bien a mi piel?",
+      "headline": "Watch more",
+      "destination": "https://cocosalvaje.co/products/serum-facial-con-coenzima-q10",
+      "start": "2025-07-22T00:00:00+00:00",
+      "start_raw": "Jul 22, 2025",
+      "countries": [
+        "CO"
+      ],
+      "queries": [
+        "aceite firmeza"
+      ],
+      "media_type": "Video",
+      "relevance": 9,
+      "screenshot": "work/all/meta-evidence-CO/q06/creative_021_750787413995731.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=750787413995731",
+      "destination_final": "https://cocosalvaje.co/products/serum-facial-con-coenzima-q10",
+      "destination_title": "Sérum facial​ Q10 con antioxidantes – COCO SALVAJE",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «/ AdLibraryReport — AdLibraryAPI Branded Content = x a ee».",
+      "ocr": "/ AdLibraryReport — AdLibraryAPI Branded Content = x a ee",
+      "promises": [
+        "No clasificable con el texto recuperado"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 391,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1521230538870536",
+      "advertiser": "SouMedic",
+      "body": "¿Te cuidas, haces ejercicio… y aun así la #celulitis o la #flacidez siguen ahí?",
+      "headline": "Send WhatsApp message",
+      "destination": "",
+      "start": "2025-09-17T00:00:00+00:00",
+      "start_raw": "Sep 17, 2025",
+      "countries": [
+        "MX"
+      ],
+      "queries": [
+        "brazos flacidez"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-MX/q07/creative_019_1521230538870536.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1521230538870536",
+      "destination_final": "",
+      "destination_title": "",
+      "destination_type": "No recuperado",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «Ad Libr».",
+      "ocr": "Ad Libr",
+      "promises": [
+        "Firmeza/tensión de la piel",
+        "Celulitis/piel de naranja"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Pregunta",
+      "days_active": 334,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1585719842556586",
+      "advertiser": "FaciCompras Venezuela",
+      "body": "Cansado de cremas costosas que prometen mucho y no hacen nada? 🙄",
+      "headline": "Más de 15.345+ Clientes Felices⭐",
+      "destination": "https://www.tiendafuturo.lat/evilgoodss/crema",
+      "start": "2025-10-24T00:00:00+00:00",
+      "start_raw": "Oct 24, 2025",
+      "countries": [
+        "CO"
+      ],
+      "queries": [
+        "aceite firmeza"
+      ],
+      "media_type": "Video",
+      "relevance": 11,
+      "screenshot": "work/all/meta-evidence-CO/q06/creative_013_1585719842556586.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1585719842556586",
+      "destination_final": "https://www.tiendafuturo.lat/evilgoodss/crema",
+      "destination_title": "EVIL GOODS!",
+      "destination_type": "Página de aterrizaje no clasificada",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «Ad Libr».",
+      "ocr": "Ad Libr",
+      "promises": [
+        "No clasificable con el texto recuperado"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Pregunta",
+      "days_active": 297,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "2209409319556431",
+      "advertiser": "FaciCompras Venezuela",
+      "body": "Cansado de cremas costosas que prometen mucho y no hacen nada? 🙄",
+      "headline": "Más de 15.345+ Clientes Felices⭐",
+      "destination": "https://www.tiendafuturo.lat/evilgoodss/crema",
+      "start": "2025-10-24T00:00:00+00:00",
+      "start_raw": "Oct 24, 2025",
+      "countries": [
+        "CO"
+      ],
+      "queries": [
+        "aceite firmeza"
+      ],
+      "media_type": "Video",
+      "relevance": 11,
+      "screenshot": "work/all/meta-evidence-CO/q06/creative_001_2209409319556431.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=2209409319556431",
+      "destination_final": "https://www.tiendafuturo.lat/evilgoodss/crema",
+      "destination_title": "EVIL GOODS!",
+      "destination_type": "Página de aterrizaje no clasificada",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «Ad Libr».",
+      "ocr": "Ad Libr",
+      "promises": [
+        "No clasificable con el texto recuperado"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Pregunta",
+      "days_active": 297,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1251947996694790",
+      "advertiser": "Masderm",
+      "body": "Si lo que quieres es tratar la flacidez corporal y además:",
+      "headline": "0:00 / 0:28",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "brazos flacidez",
+        "crema reafirmante",
+        "firmeza corporal",
+        "flacidez"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q03/creative_000_1251947996694790.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1251947996694790",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "destination_title": "Radiofrecuencia Facial Cream | Tratamiento en casa mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «0 Meta Spain ¥ OD Allads ~ Q flacidez 3,600 results».",
+      "ocr": "0 Meta Spain ¥ OD Allads ~ Q flacidez 3,600 results",
+      "promises": [
+        "Firmeza/tensión de la piel"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Cuerpo completo"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Problema directo",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1313036826756990",
+      "advertiser": "Belleza Profesional",
+      "body": "Si lo que quieres es tratar la flacidez corporal y además:",
+      "headline": "Crema reafirmante corporal 1000 ml",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-corporal",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "flacidez"
+      ],
+      "media_type": "Imagen",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q03/creative_032_1313036826756990.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1313036826756990",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-corporal",
+      "destination_title": "Radiofrecuencia Body Firming | Tratamiento corporal al mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Imagen. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «E Axe».",
+      "ocr": "E Axe",
+      "promises": [
+        "Firmeza/tensión de la piel"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Cuerpo completo"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Problema directo",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1334913200875431",
+      "advertiser": "Masderm",
+      "body": "Si lo que quieres es tratar la flacidez corporal y además:",
+      "headline": "⭐⭐⭐⭐⭐",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-corporal",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "brazos flacidez",
+        "crema reafirmante",
+        "firmeza corporal",
+        "flacidez"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q02/creative_016_1334913200875431.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1334913200875431",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-corporal",
+      "destination_title": "Radiofrecuencia Body Firming | Tratamiento corporal al mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «/ AdLibraryReport — AdLibraryAPI Branded Content = x a ee».",
+      "ocr": "/ AdLibraryReport — AdLibraryAPI Branded Content = x a ee",
+      "promises": [
+        "Firmeza/tensión de la piel"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Cuerpo completo"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Problema directo",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1478899803219660",
+      "advertiser": "Masderm with martalopeztv",
+      "body": "Crema Radiofrecuencia Facial Reafirmante 500ml. Combate eficazmente:",
+      "headline": "0:00 / 0:52",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "crema reafirmante",
+        "papada"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q02/creative_001_1478899803219660.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1478899803219660",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "destination_title": "Radiofrecuencia Facial Cream | Tratamiento en casa mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «AGLI».",
+      "ocr": "AGLI",
+      "promises": [
+        "Firmeza/tensión de la piel"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Mujeres 40+/piel madura"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1771356960197612",
+      "advertiser": "mia_crespo with Masderm",
+      "body": "Crema Radiofrecuencia Facial Reafirmante 500ml. Combate eficazmente:",
+      "headline": "⭐️⭐️⭐️⭐️⭐️",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "papada"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q08/creative_018_1771356960197612.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1771356960197612",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "destination_title": "Radiofrecuencia Facial Cream | Tratamiento en casa mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Aparece una mujer. Texto sobreimpreso legible: «El Suero Anti-Edad “Efecto Lifting” de InfiniteLove BCN utiliza Argirelne y».",
+      "ocr": "El Suero Anti-Edad “Efecto Lifting” de InfiniteLove BCN utiliza Argirelne y",
+      "promises": [
+        "Firmeza/tensión de la piel",
+        "Antiedad corporal"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "1903288446891757",
+      "advertiser": "Masderm",
+      "body": "Si lo que quieres es tratar la flacidez corporal y además:",
+      "headline": "Crema reafirmante corporal 1000 ml",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-corporal",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "brazos flacidez"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q07/creative_024_1903288446891757.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=1903288446891757",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-corporal",
+      "destination_title": "Radiofrecuencia Body Firming | Tratamiento corporal al mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «eu Silo que quieres es tratarla flacidez corporal y además: Hidratar al máximo tu pie».",
+      "ocr": "  eu   Silo que quieres es tratarla flacidez corporal y además: Hidratar al máximo tu pie",
+      "promises": [
+        "Firmeza/tensión de la piel",
+        "Hidratación/nutrición"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Cuerpo completo"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Problema directo",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "2016562702524159",
+      "advertiser": "Masderm",
+      "body": "Crema Radiofrecuencia Facial Reafirmante 500ml. Combate eficazmente:",
+      "headline": "0:00 / 0:41",
+      "destination": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "crema reafirmante",
+        "papada"
+      ],
+      "media_type": "Video",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q02/creative_003_2016562702524159.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=2016562702524159",
+      "destination_final": "https://masderm.com/products/crema-radiofrecuencia-facial",
+      "destination_title": "Radiofrecuencia Facial Cream | Tratamiento en casa mejor precio – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Video. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «0 Meta Spain ¥ BD Allads ~ = Q cremareafirmante 1,100 results».",
+      "ocr": "0 Meta Spain ¥ BD Allads ~ = Q cremareafirmante 1,100 results",
+      "promises": [
+        "Firmeza/tensión de la piel"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "No nombra una zona específica"
+      ],
+      "audience": [
+        "Mujeres 40+/piel madura"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 291,
+      "evidence_grade": "A"
+    },
+    {
+      "ad_id": "24879226731737645",
+      "advertiser": "Masderm",
+      "body": "Con nuestro Dispositivo Neck Rejuvenation Device (Cuello Rejuvenecido) y la crema reafirmante RF Facial Cream, verás mejorada la piel de:",
+      "headline": "⭐⭐⭐⭐⭐",
+      "destination": "https://masderm.com/products/neck-rejuvenation-device",
+      "start": "2025-10-30T00:00:00+00:00",
+      "start_raw": "Oct 30, 2025",
+      "countries": [
+        "ES"
+      ],
+      "queries": [
+        "papada"
+      ],
+      "media_type": "Imagen",
+      "relevance": 12,
+      "screenshot": "work/all/meta-evidence-ES/q08/creative_009_24879226731737645.png",
+      "direct_meta_url": "https://www.facebook.com/ads/library/?id=24879226731737645",
+      "destination_final": "https://masderm.com/products/neck-rejuvenation-device",
+      "destination_title": "Neck Rejuvenation Device | Cuello, papada y pómulos – Masderm Cosmética",
+      "destination_type": "Página de producto",
+      "creative_description": "Imagen. Fotograma o imagen del anuncio con el producto y/o su demostración; la captura no permite una descripción visual más específica sin inferir. Texto sobreimpreso legible: «00 Meta Spain ¥ OD Allads ~ Q papada».",
+      "ocr": "00 Meta Spain ¥ OD Allads ~ Q papada",
+      "promises": [
+        "Firmeza/tensión de la piel",
+        "Papada/cuello"
+      ],
+      "mechanisms": [
+        "No explica un mecanismo específico en el texto recuperado"
+      ],
+      "zones": [
+        "Cuello/escote",
+        "Papada"
+      ],
+      "audience": [
+        "Público corporal general; sin segmento explícito"
+      ],
+      "opening_type": "Afirmación/beneficio",
+      "days_active": 291,
+      "evidence_grade": "A"
+    }
+  ],
+  "eligible_count": 235,
+  "unique_ids": 503
+}
